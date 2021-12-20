@@ -1,0 +1,28 @@
+.header{
+    font-size:30px;
+    width: 100%;
+    margin-top:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.sub-header{
+    font-size:14px;
+}
+canvas{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+}
+video{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    top:0px;
+}
+#footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(211, 234, 255);
+    line-height: 3;
+}
